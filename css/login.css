@@ -1,14 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Patua+One&family=Style+Script&display=swap');
+
 body {
     display: flex;
     min-height: 100vh;
     color: azure;
     background-size: cover;
-    background-image: url(/img/prod40281_2.jpg);
+    background: url('../img/prod40281_2.jpg');
+    background-size: cover;
 }
 
 .estilo-login {
     border: rgb(243, 254, 226);
-   
+    background-color: rgba(39, 200, 242, 0.3);
     margin-top: 25px;
     width: 100%;
     max-width: 330px;
