@@ -1,4 +1,5 @@
 body {
+    background-image: url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Patua+One&family=Style+Script&display=swap');
     display: flex;
     min-height: 100vh;
     color: azure;
@@ -8,7 +9,6 @@ body {
 }
 
 .estilo-login {
-    background-image: url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Patua+One&family=Style+Script&display=swap');
     border: rgb(243, 254, 226);
     background-color: rgba(39, 200, 242, 0.3);
     margin-top: 25px;
