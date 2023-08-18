@@ -4,9 +4,8 @@ body {
     display: flex;
     min-height: 100vh;
     color: azure;
-    background: linear-gradient(rgba(101, 114, 145, 0.45), rgba(5, 7, 12, 0.45)),
-        url(/img/prod40281_2.jpg) no-repeat center fixed;
     background-size: cover;
+    background-image: url(/img/prod40281_2.jpg);
 }
 
 .estilo-login {
