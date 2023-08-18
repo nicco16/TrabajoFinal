@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Patua+One&family=Style+Script&display=swap');
 
 body {
-    background-image: url(/img/prod40281_2.jpg);
     display: flex;
     min-height: 100vh;
     color: azure;
