@@ -37,7 +37,7 @@ let getJSONData = function(url){
         result.data = error;
         hideSpinner();
         return result;
-    });
+      });
 }
 
 document.addEventListener("DOMContentLoaded", function(){
@@ -69,3 +69,4 @@ if ((typeof sessionStorage !== 'undefined') || (typeof localStorage !== 'undefin
 } else {
   console.log('El navegador no admite sessionStorage ni localStorage.');
 }
+

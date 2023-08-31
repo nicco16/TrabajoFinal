@@ -4,7 +4,6 @@ body {
     display: flex;
     min-height: 100vh;
     color: azure;
-    background-size: cover;
     background: url('../img/prod40281_2.jpg');
     background-size: cover;
 }
@@ -20,7 +19,6 @@ body {
     display: grid;
     place-items: center;
     border-radius: 5%;
-    
 }
 
 .login2 {
